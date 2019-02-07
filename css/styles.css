@@ -1,0 +1,32 @@
+h1{
+  font-style:italic;
+  color: green;
+  text-align: center;
+}
+img{
+  width: 1280px;
+  height: 100px;
+
+}
+
+p{
+  font-size: 20px;
+  text-align: center;
+
+}
+body{
+  background-color: limegreen;
+}
+a{
+  font-size: 20px;
+  text-align: center;
+}
+h3{
+  color:green;
+  text-align: center;
+}
+
+ul{
+  text-align: center;
+  color:green;
+}
